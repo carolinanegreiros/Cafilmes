@@ -1,0 +1,57 @@
+body {
+	font-family: "Roboto Mono", monospace;
+	text-align: center;
+	background-image: url("https://img.freepik.com/fotos-gratis/fita-de-video-com-pipocas_23-2148133500.jpg?t=st=1647551900~exp=1647552500~hmac=8f77f697e0c2dee30f748a949895a90b235041c78e9bfc10c535af25e65785be&w=1060");
+	background-color: #000000;
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+
+.container {
+	text-align: center;
+	padding: 25px;
+	color: #000000;
+}
+
+.page-title {
+	color: #ffffff;
+	margin: 0 0 5px;
+	text-shadow: 2px 2px 1px #000000;
+}
+
+.page-subtitle {
+	color: #ffffff;
+	margin-top: 15px;
+	height: 15px;
+	text-shadow: 2px 2px 3px #000000;
+}
+
+.alura-logo {
+	width: 60px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+input {
+	width: 250px;
+	height: 15px;
+	padding: 8px 50px;
+	border-radius: 8px;
+}
+
+button {
+	margin-top: 12px;
+	padding: 5px 20px;
+	border-radius: 10px;
+	background: #ffffff;
+}
+
+body > img {
+	margin: 0 10px;
+}
+
+img {
+	max-height: 250px;
+}
